@@ -255,7 +255,7 @@ The chatbot uses regex pattern matching to understand user intent:
 *(Add your screenshots here)*
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](https://github.com/abhishekmohan01/-HealSphere-AI-Intelligent-End-to-End-Healthcare-Prediction-Suite/blob/main/Screenshot%202025-12-21%20124839.png)
 
 ### Search Results
 ![Search Results](screenshots/search_results.png)
