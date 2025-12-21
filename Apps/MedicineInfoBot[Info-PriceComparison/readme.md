@@ -261,7 +261,7 @@ The chatbot uses regex pattern matching to understand user intent:
 ![Search Results](https://github.com/abhishekmohan01/-HealSphere-AI-Intelligent-End-to-End-Healthcare-Prediction-Suite/blob/main/Screenshot%202025-12-21%20124855.png)
 
 ### Price Comparison Chart
-![Price Chart](screenshots/price_chart.png)
+![Price Chart](https://github.com/abhishekmohan01/-HealSphere-AI-Intelligent-End-to-End-Healthcare-Prediction-Suite/blob/main/Screenshot%202025-12-21%20124907.png)
 
 ## 🤝 Contributing
 
