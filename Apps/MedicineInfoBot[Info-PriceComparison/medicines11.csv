@@ -1,0 +1,101 @@
+medicine_id,medicine_name,brand,manufacturer,composition,price,dosage_form,strength,indications,side_effects,prescription_required
+1,Paracetamol,Crocin,GSK,Paracetamol,15.50,Tablet,500 mg,Fever and mild to moderate pain,Nausea and skin rash,No
+2,Paracetamol,Dolo,Micro Labs,Paracetamol,20.25,Tablet,650 mg,Fever and mild to moderate pain,Nausea and skin rash,No
+3,Ibuprofen,Brufen,Abbott,Ibuprofen,45.00,Tablet,400 mg,"Pain, fever, inflammation",Stomach upset and dizziness,No
+4,Amoxicillin,Novamox,Cipla,Amoxicillin,85.30,Capsule,500 mg,Bacterial infections,Diarrhea and rash,Yes
+5,Cetirizine,Alerid,Cipla,Cetirizine Hydrochloride,35.75,Tablet,10 mg,Allergies and hay fever,Drowsiness and dry mouth,No
+6,Metformin,Glycomet,USV,Metformin Hydrochloride,42.50,Tablet,500 mg,Type 2 diabetes,Nausea and diarrhea,Yes
+7,Atorvastatin,Atorva,Zydus,Atorvastatin Calcium,120.00,Tablet,10 mg,High cholesterol,Muscle pain and headache,Yes
+8,Losartan,Losar,Unichem,Losartan Potassium,35.25,Tablet,50 mg,Hypertension,Dizziness and fatigue,Yes
+9,Ciprofloxacin,Ciprobay,Bayer,Ciprofloxacin Hydrochloride,65.80,Tablet,500 mg,Bacterial infections,Nausea and diarrhea,Yes
+10,Omeprazole,Omez,Dr. Reddy's,Omeprazole,85.40,Capsule,20 mg,Acid reflux and ulcers,Headache and diarrhea,No
+11,Azithromycin,Azee,Cipla,Azithromycin,145.00,Tablet,500 mg,Bacterial infections,Diarrhea and abdominal pain,Yes
+12,Montelukast,Montair,Cipla,Montelukast Sodium,160.25,Tablet,10 mg,Asthma and allergies,Headache and flu-like symptoms,Yes
+13,Diclofenac,Voveran,Novartis,Diclofenac Sodium,28.75,Tablet,50 mg,"Pain, inflammation",Stomach upset and dizziness,No
+14,Ranitidine,Rantac,J.B. Chemicals,Ranitidine Hydrochloride,42.30,Tablet,150 mg,Acid reflux and ulcers,Headache and constipation,No
+15,Cefixime,Taxim-O,Alkem,Cefixime,110.50,Tablet,200 mg,Bacterial infections,Diarrhea and abdominal pain,Yes
+16,Doxycycline,Doxy,Mankind,Doxycycline Hyclate,65.20,Capsule,100 mg,Bacterial infections,Photosensitivity and nausea,Yes
+17,Ambroxol,Ambrolite,Alembic,Ambroxol Hydrochloride,45.00,Syrup,30 mg/5ml,Cough and respiratory conditions,Nausea and skin rash,No
+18,Ondansetron,Ondem,Alkem,Ondansetron Hydrochloride,25.80,Tablet,4 mg,Nausea and vomiting,Headache and constipation,Yes
+19,Fexofenadine,Allegra,Sanofi,Fexofenadine Hydrochloride,95.40,Tablet,120 mg,Allergies,Headache and drowsiness,No
+20,Pantoprazole,Pan,Alkem,Pantoprazole Sodium,75.20,Tablet,40 mg,Acid reflux and ulcers,Headache and diarrhea,No
+21,Paracetamol,Calpol,GSK,Paracetamol,18.75,Syrup,125 mg/5ml,Fever and mild to moderate pain,Nausea and skin rash,No
+22,Ibuprofen,Nurofen,Reckitt Benckiser,Ibuprofen,52.40,Syrup,100 mg/5ml,"Pain, fever, inflammation",Stomach upset and dizziness,No
+23,Amoxicillin,Mox,Ranbaxy,Amoxicillin,75.80,Capsule,250 mg,Bacterial infections,Diarrhea and rash,Yes
+24,Aspirin,Ecosprin,USV,Acetylsalicylic Acid,12.50,Tablet,75 mg,Blood thinning and pain relief,Stomach upset and bleeding,No
+25,Aspirin,Disprin,Reckitt Benckiser,Acetylsalicylic Acid,18.30,Tablet,300 mg,Pain and fever,Stomach upset and bleeding,No
+26,Metformin,Glucophage,Merck,Metformin Hydrochloride,65.20,Tablet,1000 mg,Type 2 diabetes,Nausea and diarrhea,Yes
+27,Amlodipine,Amcard,Torrent,Amlodipine Besylate,45.80,Tablet,5 mg,Hypertension,Swelling and dizziness,Yes
+28,Amlodipine,Amlodac,Zydus Cadila,Amlodipine Besylate,38.20,Tablet,5 mg,Hypertension,Swelling and dizziness,Yes
+29,Levothyroxine,Thyronorm,Abbott,Levothyroxine Sodium,120.50,Tablet,50 mcg,Hypothyroidism,Weight loss and nervousness,Yes
+30,Levothyroxine,Eltroxin,GSK,Levothyroxine Sodium,135.75,Tablet,50 mcg,Hypothyroidism,Weight loss and nervousness,Yes
+31,Rosuvastatin,Rosuvas,Ranbaxy,Rosuvastatin Calcium,185.30,Tablet,10 mg,High cholesterol,Muscle pain and weakness,Yes
+32,Rosuvastatin,Crestor,AstraZeneca,Rosuvastatin Calcium,240.00,Tablet,10 mg,High cholesterol,Muscle pain and weakness,Yes
+33,Metoprolol,Metolar,Cipla,Metoprolol Tartrate,42.30,Tablet,50 mg,Hypertension and angina,Fatigue and dizziness,Yes
+34,Telmisartan,Telma,Glenmark,Telmisartan,95.40,Tablet,40 mg,Hypertension,Dizziness and back pain,Yes
+35,Domperidone,Domstal,Torrent,Domperidone,25.60,Tablet,10 mg,Nausea and vomiting,Dry mouth and headache,No
+36,Rabeprazole,Razo,Dr. Reddy's,Rabeprazole Sodium,120.40,Tablet,20 mg,Acid reflux and ulcers,Headache and nausea,No
+37,Amoxicillin + Clavulanic Acid,Augmentin,GSK,Amoxicillin + Clavulanic Acid,245.80,Tablet,"500 mg + 125 mg",Bacterial infections,Diarrhea and skin rash,Yes
+38,Levocetirizine,Xyzal,UCB,Levocetirizine Dihydrochloride,85.20,Tablet,5 mg,Allergies,Drowsiness and fatigue,No
+39,Levocetirizine,Teczine,Sun Pharma,Levocetirizine Dihydrochloride,65.75,Tablet,5 mg,Allergies,Drowsiness and fatigue,No
+40,Ivermectin,Ivermec,Alkem,Ivermectin,42.50,Tablet,12 mg,Parasitic infections,Dizziness and nausea,Yes
+41,Cefpodoxime,Cepodem,Cipla,Cefpodoxime Proxetil,185.30,Tablet,200 mg,Bacterial infections,Diarrhea and nausea,Yes
+42,Paracetamol + Caffeine,Crocin Advance,GSK,Paracetamol + Caffeine,"25.60","Tablet","500 mg + 65 mg",Headache and pain,Insomnia and nervousness,No
+43,Sertraline,Sertra,Intas,Sertraline Hydrochloride,125.80,Tablet,50 mg,Depression and anxiety,Nausea and insomnia,Yes
+44,Escitalopram,Nexito,Lupin,Escitalopram Oxalate,165.40,Tablet,10 mg,Depression and anxiety,Insomnia and nausea,Yes
+45,Escitalopram,S-Citadep,Sun Pharma,Escitalopram Oxalate,145.20,Tablet,10 mg,Depression and anxiety,Insomnia and nausea,Yes
+46,Fluoxetine,Flunil,Intas,Fluoxetine Hydrochloride,85.60,Capsule,20 mg,Depression and OCD,Nausea and anxiety,Yes
+47,Ofloxacin,Oflox,Cipla,Ofloxacin,75.40,Tablet,200 mg,Bacterial infections,Nausea and headache,Yes
+48,Diazepam,Calmpose,Ranbaxy,Diazepam,32.50,Tablet,5 mg,Anxiety and muscle spasms,Drowsiness and confusion,Yes
+49,Alprazolam,Alprax,Torrent,Alprazolam,45.20,Tablet,0.5 mg,Anxiety and panic disorders,Drowsiness and coordination problems,Yes
+50,Clonazepam,Clonotril,Torrent,Clonazepam,65.75,Tablet,0.5 mg,Seizures and anxiety,Drowsiness and dizziness,Yes
+51,Gabapentin,Gabantin,Sun Pharma,Gabapentin,225.40,Capsule,300 mg,Epilepsy and neuropathic pain,Dizziness and drowsiness,Yes
+52,Pregabalin,Pregeb,Torrent,Pregabalin,175.20,Capsule,75 mg,Neuropathic pain and epilepsy,Dizziness and sleepiness,Yes
+53,Pregabalin,Lyrica,Pfizer,Pregabalin,260.50,Capsule,75 mg,Neuropathic pain and epilepsy,Dizziness and sleepiness,Yes
+54,Tadalafil,Cialis,Eli Lilly,Tadalafil,650.00,Tablet,10 mg,Erectile dysfunction and BPH,Headache and muscle pain,Yes
+55,Sildenafil,Viagra,Pfizer,Sildenafil Citrate,550.00,Tablet,50 mg,Erectile dysfunction,Headache and flushing,Yes
+56,Sildenafil,Manforce,Mankind,Sildenafil Citrate,320.40,Tablet,50 mg,Erectile dysfunction,Headache and flushing,Yes
+57,Aceclofenac,Aceclo,Aristo,Aceclofenac,45.20,Tablet,100 mg,"Pain, inflammation",Stomach upset and dizziness,No
+58,Paracetamol + Aceclofenac,Aceclofen Plus,Aristo,Paracetamol + Aceclofenac,65.30,Tablet,"500 mg + 100 mg","Pain, inflammation",Stomach upset and nausea,No
+59,Nimesulide,Nimulid,Panacea,Nimesulide,35.20,Tablet,100 mg,"Pain, inflammation",Liver problems and nausea,No
+60,Diclofenac + Paracetamol,Diclomol,Biochem,Diclofenac + Paracetamol,42.50,Tablet,"50 mg + 500 mg","Pain, inflammation",Stomach upset and nausea,No
+61,Glimepiride,Amaryl,Sanofi,Glimepiride,125.80,Tablet,1 mg,Type 2 diabetes,Hypoglycemia and dizziness,Yes
+62,Glimepiride,Glimpid,Cipla,Glimepiride,85.40,Tablet,1 mg,Type 2 diabetes,Hypoglycemia and dizziness,Yes
+63,Fexofenadine + Montelukast,Allegra-M,Sanofi,Fexofenadine + Montelukast,175.20,Tablet,"120 mg + 10 mg",Allergic rhinitis,Headache and dry mouth,No
+64,Olmesartan,Olmy,Sun Pharma,Olmesartan Medoxomil,120.50,Tablet,20 mg,Hypertension,Dizziness and headache,Yes
+65,Amlodipine + Atenolol,Amlong-AT,Micro Labs,Amlodipine + Atenolol,85.40,Tablet,"5 mg + 50 mg",Hypertension,Fatigue and dizziness,Yes
+66,Telmisartan + Hydrochlorothiazide,Telma-H,Glenmark,Telmisartan + Hydrochlorothiazide,135.20,Tablet,"40 mg + 12.5 mg",Hypertension,Dizziness and weakness,Yes
+67,Itraconazole,Itaspor,Intas,Itraconazole,225.40,Capsule,100 mg,Fungal infections,Nausea and abdominal pain,Yes
+68,Fluconazole,Zocon,FDC,Fluconazole,175.20,Tablet,150 mg,Fungal infections,Nausea and headache,Yes
+69,Albendazole,Zentel,GSK,Albendazole,25.40,Tablet,400 mg,Worm infections,Abdominal pain and dizziness,No
+70,Nitrofurantoin,Niftran,GSK,Nitrofurantoin,65.20,Capsule,100 mg,Urinary tract infections,Nausea and dark urine,Yes
+71,Calcium + Vitamin D3,Shelcal,Torrent,Calcium Carbonate + Vitamin D3,120.50,Tablet,"500 mg + 250 IU",Calcium deficiency,Constipation and nausea,No
+72,Calcium + Vitamin D3,Calcirol,Cadila,Calcium Carbonate + Vitamin D3,95.40,Tablet,"500 mg + 250 IU",Calcium deficiency,Constipation and nausea,No
+73,Multivitamin + Multimineral,Supradyn,Abbott,Multivitamin + Multimineral,175.20,Tablet,Multiple strengths,Nutritional supplement,Nausea and headache,No
+74,Multivitamin + Multimineral,Becadexamin,GSK,Multivitamin + Multimineral,150.40,Capsule,Multiple strengths,Nutritional supplement,Nausea and headache,No
+75,Iron + Folic Acid,Fefol-Z,FDC,Iron + Folic Acid,65.20,Capsule,"150 mg + 0.5 mg",Iron deficiency anemia,Dark stools and constipation,No
+76,Ranitidine,Zantac,GSK,Ranitidine Hydrochloride,52.40,Tablet,150 mg,Acid reflux and ulcers,Headache and constipation,No
+77,Cetirizine,Cetrizet,Sun Pharma,Cetirizine Hydrochloride,25.40,Tablet,10 mg,Allergies and hay fever,Drowsiness and dry mouth,No
+78,Ofloxacin + Ornidazole,O2,Mankind,Ofloxacin + Ornidazole,85.40,Tablet,"200 mg + 500 mg",Bacterial and protozoal infections,Nausea and metallic taste,Yes
+79,Ciprofloxacin + Tinidazole,Ciplox-TZ,Cipla,Ciprofloxacin + Tinidazole,95.20,Tablet,"500 mg + 600 mg",Bacterial and protozoal infections,Nausea and metallic taste,Yes
+80,Norfloxacin + Tinidazole,Norflox-TZ,Cipla,Norfloxacin + Tinidazole,75.40,Tablet,"400 mg + 600 mg",Bacterial and protozoal infections,Nausea and dizziness,Yes
+81,Levocetrizine + Montelukast,L-Mont,Aristo,Levocetrizine + Montelukast,125.40,Tablet,"5 mg + 10 mg",Allergic rhinitis,Drowsiness and fatigue,No
+82,Dextromethorphan + Chlorpheniramine + Phenylephrine,Benadryl Cough Formula,Johnson & Johnson,Dextromethorphan + Chlorpheniramine + Phenylephrine,95.40,Syrup,"10 mg + 2 mg + 5 mg per 5ml",Cough and cold,Drowsiness and dry mouth,No
+83,Dextromethorphan + Phenylephrine + Chlorpheniramine,Corex,Pfizer,Dextromethorphan + Phenylephrine + Chlorpheniramine,85.20,Syrup,"10 mg + 5 mg + 2 mg per 5ml",Cough and cold,Drowsiness and dry mouth,No
+84,Amoxicillin + Clavulanic Acid,Moxclav,Alkem,Amoxicillin + Clavulanic Acid,185.30,Tablet,"500 mg + 125 mg",Bacterial infections,Diarrhea and rash,Yes
+85,Metronidazole,Flagyl,Pfizer,Metronidazole,35.20,Tablet,400 mg,Anaerobic bacterial and protozoal infections,Nausea and metallic taste,Yes
+86,Metronidazole,Metrogyl,J.B. Chemicals,Metronidazole,25.40,Tablet,400 mg,Anaerobic bacterial and protozoal infections,Nausea and metallic taste,Yes
+87,Salbutamol,Asthalin,Cipla,Salbutamol Sulfate,65.20,Inhaler,100 mcg/dose,Asthma and COPD,Tremor and palpitations,No
+88,Salbutamol,Ventolin,GSK,Salbutamol Sulfate,125.40,Inhaler,100 mcg/dose,Asthma and COPD,Tremor and palpitations,No
+89,Budesonide,Budecort,Cipla,Budesonide,175.20,Inhaler,200 mcg/dose,Asthma and COPD,Throat irritation and oral candidiasis,Yes
+90,Fluticasone + Salmeterol,Seretide,GSK,Fluticasone + Salmeterol,550.00,Inhaler,"250 mcg + 50 mcg per dose",Asthma and COPD,Throat irritation and palpitations,Yes
+91,Fluticasone + Salmeterol,Seroflo,Cipla,Fluticasone + Salmeterol,325.40,Inhaler,"250 mcg + 50 mcg per dose",Asthma and COPD,Throat irritation and palpitations,Yes
+92,Methylprednisolone,Medrol,Pfizer,Methylprednisolone,125.40,Tablet,4 mg,"Inflammation, allergies",Weight gain and mood changes,Yes
+93,Prednisolone,Wysolone,Wyeth,Prednisolone,85.20,Tablet,5 mg,"Inflammation, allergies",Weight gain and mood changes,Yes
+94,Deflazacort,Defcort,Cipla,Deflazacort,175.20,Tablet,6 mg,"Inflammation, allergies",Weight gain and mood changes,Yes
+95,Levofloxacin,Levoflox,Cipla,Levofloxacin,120.50,Tablet,500 mg,Bacterial infections,Nausea and headache,Yes
+96,Levofloxacin,Levolin,Glenmark,Levofloxacin,95.40,Tablet,500 mg,Bacterial infections,Nausea and headache,Yes
+97,Cefuroxime,Ceftum,GSK,Cefuroxime Axetil,175.20,Tablet,250 mg,Bacterial infections,Diarrhea and nausea,Yes
+98,Cefuroxime,Cefakind,Mankind,Cefuroxime Axetil,145.20,Tablet,250 mg,Bacterial infections,Diarrhea and nausea,Yes
+99,Insulin Glargine,Lantus,Sanofi,Insulin Glargine,650.00,Injection,100 IU/ml,Diabetes mellitus,Hypoglycemia and weight gain,Yes
+100,Insulin Aspart,NovoRapid,Novo Nordisk,Insulin Aspart,550.00,Injection,100 IU/ml,Diabetes mellitus,Hypoglycemia and weight gain,Yes
