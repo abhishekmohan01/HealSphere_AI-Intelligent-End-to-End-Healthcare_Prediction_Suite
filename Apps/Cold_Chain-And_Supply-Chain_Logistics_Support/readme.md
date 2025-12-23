@@ -255,7 +255,7 @@ Try these shipment IDs in the details viewer:
 ![Search](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20093953.png)
 
 ### Shipment Details
-![Details](https://via.placeholder.com/1000x600/27ae60/ffffff?text=Detailed+Shipment+View+%7C+Sensor+History)
+![Details](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20094021.png)
 
 ### Analytics Dashboard
 ![Analytics](https://via.placeholder.com/1000x600/8e44ad/ffffff?text=Advanced+Analytics+%7C+Heatmaps+%26+Insights)
