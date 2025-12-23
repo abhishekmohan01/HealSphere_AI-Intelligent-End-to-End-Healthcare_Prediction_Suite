@@ -7,7 +7,7 @@
 
 > A comprehensive real-time pharmaceutical cold chain tracking system with IoT monitoring, advanced analytics, and intelligent alert management.
 
-![Cold Chain Dashboard](https://via.placeholder.com/1200x600/2c3e50/ffffff?text=Cold+Chain+Tracking+Dashboard)
+![Cold Chain Dashboard](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20093923.png)
 
 ## 📋 Table of Contents
 
@@ -249,7 +249,7 @@ Try these shipment IDs in the details viewer:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/1000x600/34495e/ffffff?text=Dashboard+Overview+%7C+9+Visualizations)
+![Dashboard](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20093923.png)
 
 ### Search & Track
 ![Search](https://via.placeholder.com/1000x400/2980b9/ffffff?text=Advanced+Search+%26+Filtering)
