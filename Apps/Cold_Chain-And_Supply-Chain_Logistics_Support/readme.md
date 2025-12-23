@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com)
 
-> A comprehensive real-time pharmaceutical cold chain tracking system with IoT monitoring, advanced analytics, and intelligent alert management.
+> A comprehensive real-time pharmaceutical cold chain tracking system with IoT monitoring, advanced analytics, and intelligent alert management.[ The Data with which this model is trained is synthetic [Created Randomly]
 
 ![Cold Chain Dashboard](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20093923.png)
 
@@ -27,6 +27,7 @@
 ## 🎯 Overview
 
 The **Cold Chain Tracking & Monitoring System** is an enterprise-grade solution designed to track and monitor pharmaceutical shipments across India's logistics network. It provides real-time IoT sensor data, predictive analytics, and automated alerts to ensure medicine quality and compliance with cold chain regulations.
+[ The Data with which this model is trained is synthetic [Created Randomly]
 
 ### Key Highlights
 
@@ -258,7 +259,7 @@ Try these shipment IDs in the details viewer:
 ![Details](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20094021.png)
 
 ### Analytics Dashboard
-![Analytics](https://via.placeholder.com/1000x600/8e44ad/ffffff?text=Advanced+Analytics+%7C+Heatmaps+%26+Insights)
+![Analytics](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Cold_Chain-And_Supply-Chain_Logistics_Support/Screenshot%202025-12-23%20094055.png)
 
 ## 📊 Data Model
 
