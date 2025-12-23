@@ -184,10 +184,10 @@ Future enhancements planned:
 - [ ] Group/family wellness tracking
 - [ ] Professional dashboard for therapists
 
-## 💜 Made with Care
+## 💜 Made with Care by Abhishek Mohan 
 
 MindfulMe was created with the belief that mental wellness should be accessible to everyone. We hope this tool supports you on your journey to better emotional health.
 
 ---
 
-**Remember:** Taking care of your mental health is not selfish—it's essential. You deserve support, care, and compassion, especially from yourself. 🌸
+**Remember:** Taking care of your mental health is not selfish it's essential. You deserve support, care, and compassion, especially from yourself. 🌸
