@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085131.png)
-![Gradio](https://img.shields.io/badge/Gradio-4.0+-orange.svg)
+![Gradio](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085139.png)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
