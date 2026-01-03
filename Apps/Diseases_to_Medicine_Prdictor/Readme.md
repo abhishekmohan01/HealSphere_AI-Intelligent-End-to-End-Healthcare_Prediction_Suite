@@ -4,7 +4,7 @@
 
 ![Python](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085131.png)
 ![Gradio](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085139.png)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085149.png)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 **A powerful medical recommendation system with an interactive web interface that provides detailed drug information, safety data, pricing analysis, and alternative treatment options.**
