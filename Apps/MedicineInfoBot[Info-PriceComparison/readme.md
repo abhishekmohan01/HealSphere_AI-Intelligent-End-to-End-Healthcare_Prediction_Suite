@@ -290,7 +290,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abhishek Mohan**
+- Vansh and Vivek as contributors and Supporting Member
 - GitHub: [@abhishekmohan01](https://github.com/abhishekmohan01/)
 - LinkedIn: [Abhishek Mohan](www.linkedin.com/in/abhishek---mohan)
 - Email: abhishek5489@outlook.com
@@ -300,6 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Gradio team for the amazing framework
 - Medical database contributors
 - Open-source community
+- Vansh and Vivek as contributors and Supporting Member
+- M/s. Deepali Kumari as Instructor
 
 ## ⚠️ Disclaimer
 
