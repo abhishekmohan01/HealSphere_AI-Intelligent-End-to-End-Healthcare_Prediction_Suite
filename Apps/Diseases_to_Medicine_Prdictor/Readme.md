@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://github.com/abhishekmohan01/HealSphere_AI-Intelligent-End-to-End-Healthcare_Prediction_Suite/blob/main/Apps/Diseases_to_Medicine_Prdictor/Screenshot%202026-01-03%20085131.png)
 ![Gradio](https://img.shields.io/badge/Gradio-4.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
@@ -527,7 +527,7 @@ A: Check the MIT License terms and ensure compliance with medical regulations.
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Made with ❤️ for better healthcare access**
+**Made with ❤️ for better healthcare access BY Abhishek Mohan , Vansh Yadav , Vivek Kumar and Team..**
 
 [⬆ Back to Top](#-comprehensive-medicine-recommendation-system)
 
