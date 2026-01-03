@@ -465,6 +465,8 @@ in the Software without restriction...
 ## 👥 Authors
 
 - **Abhishek Mohan** - *Initial work* - [abhishekmohan01](https://github.com/abhishekmohan01)
+- **Vivek Kumar** - *Collaborator & Supporting Member* -
+- **Vansh** - *Collaborator & Supporting Member* -
 
 ## 🙏 Acknowledgments
 
